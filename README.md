@@ -1,2 +1,2 @@
-#Calculadora basica programada en java
-Cilos, excepciones, bucles y funciones
+# Calculadora basica programada en java
+Cilos, excepciones, bucles, funciones y refactorizacion
